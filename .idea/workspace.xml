@@ -1,11 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7441989c-f34e-4a9e-90b4-5da96ea588a0" name="Changes" comment="" />
+    <list default="true" id="7441989c-f34e-4a9e-90b4-5da96ea588a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1dam-armas-de-fuego-smorcor744" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1dam-restaurante-poo-smorcor744" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/Armas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Armas/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/Biblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biblioteca/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carrera.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Automovil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carrera.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Motocicleta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResultadoCarrera.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehiculo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/Ejercicio 06 - Clases abstractas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio 06 - Clases abstractas/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/Ejercicio-04-Gestion-Personal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio-04-Gestion-Personal/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EntregaEntornosGit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/Vehiculos_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vehiculos_2/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_Gestion_de_personal_Sergio_Morales_Coronil" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1dam-ejercicios-kotlin-smorcor744" beforeDir="false" afterPath="$PROJECT_DIR$/../1dam-ejercicios-kotlin-smorcor744" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Donde_esta_R2D2" beforeDir="false" afterPath="$PROJECT_DIR$/../Donde_esta_R2D2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO-Ejercicios-basicos-1-al-5/POO-Ejercicio-basico-4.3" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Ejercicios-basicos-1-al-5/POO-Ejercicio-basico-4.3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO-Ejercicios-basicos-1-al-5/POO-Ejercicio-basico-4.5" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Ejercicios-basicos-1-al-5/POO-Ejercicio-basico-4.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO-Practica de clase - Cafeteras y tazas - Sergio Morales Coronil" beforeDir="false" afterPath="$PROJECT_DIR$/../POO-Practica de clase - Cafeteras y tazas - Sergio Morales Coronil" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tabla_Multiplicar" beforeDir="false" afterPath="$PROJECT_DIR$/../Tabla_Multiplicar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,10 +105,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
